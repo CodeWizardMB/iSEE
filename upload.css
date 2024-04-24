@@ -1,0 +1,16 @@
+input {
+    display: none;
+}
+
+label {
+    height: 1000px;
+    width: 1500px;
+    margin-top: 12px;
+    border-radius: 6px;
+    border: 1px dashed #999;
+}
+
+label:hover {
+    color: red;
+    border: 1px dashed red;
+}
